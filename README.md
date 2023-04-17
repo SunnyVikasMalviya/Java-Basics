@@ -1,2 +1,2 @@
-# Playground
-Java Full Stack Program
+# Java Playground
+Basic Java Program
